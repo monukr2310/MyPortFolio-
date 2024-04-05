@@ -20,7 +20,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Monu Kumar</strong>
+                <strong className="main-name"> Prince Kumar Singh</strong>
               </h1>
 
               <p className="heading-description blockquote">

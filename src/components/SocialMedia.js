@@ -11,7 +11,7 @@ function SocialMedia() {
     <ul className="home-about-social-links">
       <li className="social-icons">
         <a
-          href="https://github.com/monukr2310"
+          href="https://github.com/PrinceRajput2310"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"
@@ -21,7 +21,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/in/monu-kumar-singh-8ba877134/"
+          href="https://www.linkedin.com/in/prince-kumar-singh-8ba877134/"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"
@@ -41,7 +41,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="mailto:monukr377@gmail.com.com"
+          href="mailto:princesinghrajput2310oct@gmail.com.com"
           target="_blank"
           rel="noreferrer"
           className="icon-colour home-social-icons"
