@@ -24,10 +24,12 @@ function Home() {
               </h1>
 
               <p className="heading-description blockquote">
-                I am passionate about using Javascript and Animation Libraries
-                to create awesome user experiences. With over two years of
-                experience developing web applications using the latest
-                front-end and back-end technologies.
+                I am passionate about leveraging <strong>JavaScript</strong> and
+                <strong> animation libraries</strong> to craft engaging and
+                seamless user experiences. With nearly four years of experience
+                in developing web applications, I specialize in utilizing the
+                latest <strong>front-end </strong>and <strong>back-end</strong>{" "}
+                technologies to deliver innovative solutions.
               </p>
 
               <div className="heading-type">

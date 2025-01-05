@@ -55,7 +55,7 @@ html {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2a3239;
+  /* background: #2a3239; */
 }
 
 /* Handle */
@@ -271,6 +271,7 @@ html {
 
 .heading-description {
   margin-left: 20px !important;
+  text-align: justify;
 }
 .heading-type {
   padding-left: 15px;

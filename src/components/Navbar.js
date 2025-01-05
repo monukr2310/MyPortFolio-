@@ -9,9 +9,9 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-import LogoIcons from "../Assets/logo.png";
+import LogoIcons from "../Assets/newLogoName.png";
 
-import { MdDeveloperMode } from "react-icons/md";
+// import { MdDeveloperMode } from "react-icons/md";
 
 import { CgFileDocument } from "react-icons/cg";
 
@@ -39,7 +39,11 @@ function NavBar() {
       <Container>
         <Navbar.Brand>
           {/* <MdDeveloperMode style={{ marginBottom: "2px" }} /> M.K */}
-          <img  style={{height:"49px",width:"49px",filter:"blur(0.5px)"}} src={LogoIcons} alt="logo"/>
+          <img
+            style={{ height: "49px", width: "49px", filter: "blur(0.5px)" }}
+            src={LogoIcons}
+            alt="logo"
+          />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -94,7 +98,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-              //  href="http://www.logicstime.com/"
+                //  href="http://www.logicstime.com/"
                 target="_blank"
                 rel="noreferrer"
               >
